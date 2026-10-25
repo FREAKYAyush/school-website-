@@ -1,0 +1,6 @@
+{
+  "name": "UHS Madhulata Raniganj Araria - School Portal",
+  "description": "Official website and digital notification board for UHS Madhulata, Raniganj, Araria, Bihar. Modern portal with notices, academics, facilities, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

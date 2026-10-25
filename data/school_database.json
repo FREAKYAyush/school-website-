@@ -1,0 +1,483 @@
+{
+  "admin": {
+    "id": "prince@123",
+    "email": "prince@123",
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "name": "Prince (Authorized Staff - Notice In-charge)",
+    "role": "staff",
+    "canManageNotices": true
+  },
+  "schoolInfo": {
+    "name": "UHS MADHULATA RANIGANJ ARARIA",
+    "hindiName": "उत्क्रमित उच्च माध्यमिक विद्यालय, मधुलता (अररिया)",
+    "affiliation": "Bihar School Examination Board (BSEB), Patna",
+    "udiseCode": "10070804607",
+    "estd": "1960",
+    "location": "Madhulata, Bishanpur Panchayat, Raniganj, Araria, Bihar, India",
+    "postOffice": "Madhulata",
+    "policeStation": "Raniganj",
+    "pinCode": "854334",
+    "phone": "7631729440",
+    "email": "uhsmadhulata607@gmail.com",
+    "principalName": "Shri R. K. Mandal",
+    "principalDesignation": "Headmaster / Principal (In-charge)",
+    "principalQualification": "M.Sc., B.Ed. (22+ Years in Bihar Education Service)",
+    "principalMessage": "Welcome to Utkramit High School (UHS) Madhulata, Raniganj. It is our enduring pledge to nurture disciplined, inquisitive, and compassionate young minds in our rural heartland of Araria. Education is not merely the acquisition of textbook knowledge; it is the ignition of critical conscience, scientific spirit, and civic responsibility. We are committed to providing our students with vibrant classroom learning, modern laboratories, digital educational resources, and value-based leadership to help them become proud contributors to Bihar and our nation.",
+    "aboutText": "Utkramit High School (UHS) Madhulata is a premier government higher secondary institution located in Bishanpur Panchayat, Raniganj block of Araria district, Bihar. Dedicated to universal, inclusive, and qualitative education, the institution provides structured learning from Upper Primary through Secondary (Matric) and Higher Secondary (Intermediate) levels. With experienced teaching faculty, student-friendly infrastructure, clean drinking water, separate sanitation complexes, science equipment, and active sports programs, UHS Madhulata stands as a beacon of academic empowerment in Seemanchal Bihar.",
+    "mission": "To impart accessible, equitable, and top-tier secondary education that builds intellectual curiosity, ethical character, digital awareness, and practical skills among all rural youth.",
+    "vision": "To emerge as an exemplary model institution of educational transformation where every student—regardless of socioeconomic background—is inspired to dream big, excel academically, and lead with integrity.",
+    "objectives": [
+      "Deliver student-centered pedagogy aligned with BSEB and NEP 2020 curriculum standards.",
+      "Foster 100% literacy, high secondary passing rates, and active scholarship adoption.",
+      "Empower girls and marginalized communities through inclusive schooling and digital literacy.",
+      "Maintain modern school infrastructure, clean environmental standards, and robust sports facilities."
+    ],
+    "workingHours": "Monday - Saturday: 9:30 AM to 4:00 PM (Classes) | 10:00 AM to 4:30 PM (Office)"
+  },
+  "notices": [
+    {
+      "id": "notice-1",
+      "title": "Annual Secondary Examination (BSEB Matric) 2026 Schedule & Admit Card Distribution",
+      "category": "Examination",
+      "date": "2026-03-24",
+      "description": "Official schedule, exam center protocols, and instructions for mandatory admit card verification for all Class 10th board examinees.",
+      "content": "All regular and private examinees registered for the Bihar School Examination Board (BSEB) Secondary (Matric) Examination 2026 are hereby informed that verified original Admit Cards are being distributed from the Headmaster Office counter between 10:30 AM and 3:30 PM. Examinees must personally verify their personal credentials, subject combination, roll code, and roll number. Candidates must report at the allocated examination center at least 30 minutes before commencement. Mobile phones, electronic watches, calculators, and unauthorized materials are strictly forbidden inside the exam hall.",
+      "isImportant": true,
+      "isPublished": true,
+      "attachmentName": "BSEB_Matric_Exam_Guidelines_2026.pdf",
+      "attachmentType": "pdf",
+      "externalLink": "http://biharboardonline.bihar.gov.in",
+      "createdAt": "2026-03-24T08:00:00.000Z",
+      "updatedAt": "2026-03-24T08:00:00.000Z",
+      "viewCount": 342
+    },
+    {
+      "id": "notice-2",
+      "title": "Parent-Teacher Association (PTA) Quarterly Meeting & Academic Progress Review",
+      "category": "General",
+      "date": "2026-03-20",
+      "description": "Important assembly for parents of Class 6th to 12th to review attendance records, terminal marks, and student wellness.",
+      "content": "Respected Parents and Guardians, the quarterly general meeting of the Parent-Teacher Association (PTA) of UHS Madhulata is convened on the school campus on Saturday from 10:30 AM onwards. The meeting will discuss class attendance percentages, individual evaluation cards, mid-day meal hygiene standards, and preparation strategies for board and annual promotion tests. Your active presence and feedback are vital for your child’s educational advancement.",
+      "isImportant": true,
+      "isPublished": true,
+      "attachmentName": "PTA_Meeting_Notice_March2026.pdf",
+      "attachmentType": "pdf",
+      "createdAt": "2026-03-20T09:30:00.000Z",
+      "updatedAt": "2026-03-20T09:30:00.000Z",
+      "viewCount": 189
+    },
+    {
+      "id": "notice-3",
+      "title": "Bihar State Pre-Matric and Post-Matric Scholarship Portal Document Verification",
+      "category": "Scholarship",
+      "date": "2026-03-12",
+      "description": "Mandatory submission of Aadhaar-linked bank accounts, income certificates, and Medhasoft records for student scholarship disbursement.",
+      "content": "All eligible students belonging to SC, ST, EBC, BC, and Minority categories enrolled in Classes 9th, 10th, 11th, and 12th who applied under state scholarship welfare schemes must verify their application documents with the school scholarship coordinator, Shri Sanjeev Kumar, by 30th March. Required documents: Photocopy of Aadhaar Card, Bank Passbook showing active NPCI/Aadhaar DBT seeding, Residential Certificate, Income Certificate (valid for current financial year), and Medhasoft registration slip.",
+      "isImportant": true,
+      "isPublished": true,
+      "attachmentName": "Scholarship_Checklist_PMS_2026.pdf",
+      "attachmentType": "pdf",
+      "externalLink": "https://pmsonline.bih.nic.in",
+      "createdAt": "2026-03-12T10:00:00.000Z",
+      "updatedAt": "2026-03-12T10:00:00.000Z",
+      "viewCount": 410
+    },
+    {
+      "id": "notice-4",
+      "title": "Academic Session 2026-27 Gazetted Holidays & Summer Vacation Schedule",
+      "category": "Holidays",
+      "date": "2026-02-28",
+      "description": "Official list of institutional holidays, festival observances, and summer recess as per Bihar Education Department directives.",
+      "content": "As communicated by the Directorate of Secondary Education, Government of Bihar, Patna, the academic holiday schedule for UHS Madhulata has been notified. The school will observe designated leaves for official festivals. Summer vacation dates and compensatory class routines will be posted well in advance on this portal notice board.",
+      "isImportant": false,
+      "isPublished": true,
+      "attachmentName": "Academic_Holiday_Calendar_2026.pdf",
+      "attachmentType": "pdf",
+      "createdAt": "2026-02-28T07:15:00.000Z",
+      "updatedAt": "2026-02-28T07:15:00.000Z",
+      "viewCount": 220
+    },
+    {
+      "id": "notice-5",
+      "title": "Admissions Open for Class 9th and Class 11th (Arts & Science) 2026-27",
+      "category": "Admission",
+      "date": "2026-02-15",
+      "description": "Prospectus availability, entrance criteria, and application window for fresh enrollments at UHS Madhulata.",
+      "content": "Fresh admissions for Class 9th (Secondary) and Class 11th (Higher Secondary - Arts and Science Streams) are formally announced. Parents and qualifying students from local middle schools and Bishanpur Panchayat are advised to obtain the prescribed admission form from the school counter between 10:00 AM and 3:00 PM. No admission fee is charged for girls and reservation beneficiaries as per Bihar State Govt norms.",
+      "isImportant": false,
+      "isPublished": true,
+      "attachmentName": "Admission_Form_Prospectus.pdf",
+      "attachmentType": "pdf",
+      "createdAt": "2026-02-15T11:00:00.000Z",
+      "updatedAt": "2026-02-15T11:00:00.000Z",
+      "viewCount": 295
+    },
+    {
+      "id": "notice-6",
+      "title": "Distribution of Free NCERT Textbooks & Bicycle / Uniform Direct Benefit Transfer",
+      "category": "Academic",
+      "date": "2026-01-20",
+      "description": "Timetable for distribution of free curriculum textbooks and verification of parent bank details for Mukhyamantri Poshak & Cycle Yojana.",
+      "content": "Students enrolled in Class 6 through 10 are requested to collect their textbook sets from their respective class teachers according to the published schedule. For student uniform allowances and bicycle scheme benefits, parents are requested to verify their active bank branch and IFSC codes in the school registry.",
+      "isImportant": false,
+      "isPublished": true,
+      "attachmentName": "Textbook_Distribution_Schedule.pdf",
+      "attachmentType": "pdf",
+      "createdAt": "2026-01-20T09:00:00.000Z",
+      "updatedAt": "2026-01-20T09:00:00.000Z",
+      "viewCount": 312
+    }
+  ],
+  "staff": [
+    {
+      "id": "staff-1",
+      "name": "Shri R. K. Mandal",
+      "designation": "Headmaster / Principal (In-charge)",
+      "department": "Administration & Mathematics",
+      "qualification": "M.Sc. (Maths), B.Ed.",
+      "experience": "22 Years",
+      "email": "headmaster.uhsmadhulata@gmail.com",
+      "avatarColor": "indigo"
+    },
+    {
+      "id": "staff-2",
+      "name": "Dr. Manoj Kumar Jha",
+      "designation": "Senior Teacher (PGT)",
+      "department": "Science & Physics",
+      "qualification": "M.Sc. (Physics), Ph.D., B.Ed.",
+      "experience": "18 Years",
+      "email": "manoj.physics@uhsmadhulata.edu.in",
+      "avatarColor": "emerald"
+    },
+    {
+      "id": "staff-3",
+      "name": "Smt. Pratibha Kumari",
+      "designation": "Secondary Teacher (TGT)",
+      "department": "Social Science & History",
+      "qualification": "M.A. (History), B.Ed., CTET",
+      "experience": "12 Years",
+      "email": "pratibha.sst@uhsmadhulata.edu.in",
+      "avatarColor": "amber"
+    },
+    {
+      "id": "staff-4",
+      "name": "Shri Sanjeev Kumar",
+      "designation": "Secondary Teacher (TGT)",
+      "department": "Mathematics & Computer",
+      "qualification": "M.Sc. (Maths), MCA, B.Ed.",
+      "experience": "14 Years",
+      "email": "sanjeev.maths@uhsmadhulata.edu.in",
+      "avatarColor": "blue"
+    },
+    {
+      "id": "staff-5",
+      "name": "Shri Arvind Prasad Yadav",
+      "designation": "Language Teacher (TGT)",
+      "department": "Hindi & Sanskrit",
+      "qualification": "M.A. (Hindi, Sanskrit), B.Ed.",
+      "experience": "15 Years",
+      "email": "arvind.hindi@uhsmadhulata.edu.in",
+      "avatarColor": "purple"
+    },
+    {
+      "id": "staff-6",
+      "name": "Smt. Anju Rani",
+      "designation": "Secondary Teacher (TGT)",
+      "department": "English Literature",
+      "qualification": "M.A. (English), B.Ed.",
+      "experience": "9 Years",
+      "email": "anju.english@uhsmadhulata.edu.in",
+      "avatarColor": "rose"
+    },
+    {
+      "id": "staff-7",
+      "name": "Shri Mohammad Shamim Akhtar",
+      "designation": "Science Teacher (TGT)",
+      "department": "Chemistry & Biology",
+      "qualification": "M.Sc. (Botany), B.Ed.",
+      "experience": "11 Years",
+      "email": "shamim.bio@uhsmadhulata.edu.in",
+      "avatarColor": "teal"
+    },
+    {
+      "id": "staff-8",
+      "name": "Shri Bipin Kumar Singh",
+      "designation": "Physical Education & Sports Instructor",
+      "department": "Physical Education & Yoga",
+      "qualification": "B.P.Ed., M.P.Ed.",
+      "experience": "10 Years",
+      "email": "bipin.sports@uhsmadhulata.edu.in",
+      "avatarColor": "orange"
+    }
+  ],
+  "facilities": [
+    {
+      "id": "facility-1",
+      "title": "Spacious & Well-Ventilated Classrooms",
+      "category": "Academic Infrastructure",
+      "description": "Clean, electrified classrooms with robust desks and benches, dual blackboards, ceiling fans, and natural daylight for optimal learning.",
+      "iconName": "Building",
+      "highlights": [
+        "Wide windows for ventilation",
+        "Electrified with LED fixtures",
+        "Age-appropriate student benches"
+      ]
+    },
+    {
+      "id": "facility-2",
+      "title": "School Library & Reading Corner",
+      "category": "Knowledge Hub",
+      "description": "Curated collection of over 2,500 books including BSEB syllabus textbooks, reference encyclopedias, Hindi & English literature, competitive magazines, and daily newspapers.",
+      "iconName": "BookOpen",
+      "highlights": [
+        "Reference & story books in Hindi/English",
+        "Dedicated student reading room",
+        "Periodical & newspaper subscription"
+      ]
+    },
+    {
+      "id": "facility-3",
+      "title": "Integrated Science & STEM Laboratory",
+      "category": "Practical Learning",
+      "description": "Hands-on practical laboratory equipped with compound microscopes, chemistry glassware, specimen jars, physics apparatus, and interactive science charts.",
+      "iconName": "FlaskConical",
+      "highlights": [
+        "BSEB practical syllabus experiments",
+        "Safe chemical storage and workbenches",
+        "Charts and biological models"
+      ]
+    },
+    {
+      "id": "facility-4",
+      "title": "ICT & Smart Digital Learning Corner",
+      "category": "Digital Literacy",
+      "description": "Equipped with computer terminals, smart multimedia projector, and digital learning modules to orient rural students with modern IT skills.",
+      "iconName": "Monitor",
+      "highlights": [
+        "Basic computer training & internet awareness",
+        "Digital video projector classes",
+        "Interactive audio-visual lessons"
+      ]
+    },
+    {
+      "id": "facility-5",
+      "title": "Spacious Sports Playground & Athletics",
+      "category": "Physical Education",
+      "description": "Expansive open playground on campus for daily morning assemblies, drill exercises, football, kabaddi, kho-kho, badminton, and annual athletic meets.",
+      "iconName": "Trophy",
+      "highlights": [
+        "Full playground for athletics and kabaddi",
+        "Sports equipment store (volleyball, cricket, carrom)",
+        "Annual inter-school tournament training"
+      ]
+    },
+    {
+      "id": "facility-6",
+      "title": "Purified RO Drinking Water Unit",
+      "category": "Health & Hygiene",
+      "description": "Centralized clean water filtration unit and stainless steel multi-tap water station ensuring safe, hygienic drinking water for every child and teacher.",
+      "iconName": "Droplets",
+      "highlights": [
+        "Regular water quality testing",
+        "Multi-point hygienic dispenser",
+        "Clean drainage soak pit"
+      ]
+    },
+    {
+      "id": "facility-7",
+      "title": "Separate Sanitation Complexes (Boys & Girls)",
+      "category": "Health & Sanitation",
+      "description": "Dedicated, well-maintained sanitation blocks for boys and girls with continuous running water, tiled flooring, incinerator/sanitary amenities, and handwashing stations.",
+      "iconName": "ShieldCheck",
+      "highlights": [
+        "Segregated clean toilets for girls & boys",
+        "Handwash station with soap",
+        "Maintained under Swachh Vidyalaya initiative"
+      ]
+    },
+    {
+      "id": "facility-8",
+      "title": "PM POSHAN / Mid-Day Meal Dining Facility",
+      "category": "Nutrition & Care",
+      "description": "Hygienic kitchen shed and covered dining verandas adhering strictly to state government weekly nutrition charts and safety standards.",
+      "iconName": "Utensils",
+      "highlights": [
+        "Freshly cooked hot nutritious meals",
+        "Filtered water for cooking",
+        "Daily teacher supervision & quality register"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "School Main Campus & Courtyard Assembly",
+      "category": "School Campus",
+      "date": "2026-03-01",
+      "description": "Morning prayer assembly and national anthem in front of the school building with lush green trees."
+    },
+    {
+      "id": "gal-2",
+      "title": "77th Republic Day Flag Hoisting & Celebrations",
+      "category": "Republic Day",
+      "date": "2026-01-26",
+      "description": "Solemn flag unfurling by Headmaster, patriotic speeches, and student marching contingent."
+    },
+    {
+      "id": "gal-3",
+      "title": "Science Fair & Student Model Demonstration",
+      "category": "Events",
+      "date": "2026-02-18",
+      "description": "Students presenting working models of rainwater harvesting, solar energy, and volcano structures."
+    },
+    {
+      "id": "gal-4",
+      "title": "Annual Kabaddi and Kho-Kho Tournament",
+      "category": "Sports",
+      "date": "2026-02-05",
+      "description": "Inter-house championship match between Senior Secondary houses on the school playground."
+    },
+    {
+      "id": "gal-5",
+      "title": "Independence Day Cultural Songs & Drama",
+      "category": "Independence Day",
+      "date": "2025-08-15",
+      "description": "Folk dances and patriotic songs performed by the girls and boys cultural committee."
+    },
+    {
+      "id": "gal-6",
+      "title": "Smart Classroom Audio-Visual Session",
+      "category": "Classrooms",
+      "date": "2026-03-15",
+      "description": "Secondary students attending an interactive science session via the digital projector setup."
+    }
+  ],
+  "academics": {
+    "bsebCode": "School BSEB Code: 34046 | U-DISE: 10070804607",
+    "classes": [
+      {
+        "classLevel": "Upper Primary (Class 6 - 8)",
+        "ageGroup": "11 - 14 Years",
+        "streams": "General Foundational Curriculum",
+        "medium": "Hindi / English (Bilingual)",
+        "subjects": [
+          "Hindi",
+          "English",
+          "Mathematics",
+          "Science",
+          "Social Science",
+          "Sanskrit",
+          "Physical Education"
+        ]
+      },
+      {
+        "classLevel": "Secondary / High School (Class 9 & 10)",
+        "ageGroup": "14 - 16 Years",
+        "streams": "Bihar Board Matric Coursework",
+        "medium": "Hindi / English",
+        "subjects": [
+          "Hindi (First Language)",
+          "Sanskrit / Urdu (Second Language)",
+          "Mathematics",
+          "Science (Phy/Chem/Bio)",
+          "Social Science (Hist/Geo/Civ/Eco)",
+          "English"
+        ]
+      },
+      {
+        "classLevel": "Senior Secondary / 10+2 (Class 11 & 12)",
+        "ageGroup": "16 - 18 Years",
+        "streams": "Arts & Science Streams",
+        "medium": "Hindi / English",
+        "subjects": [
+          "Science Stream: Physics, Chemistry, Mathematics, Biology, English, Hindi",
+          "Arts Stream: History, Political Science, Geography, Economics, Hindi, English"
+        ]
+      }
+    ],
+    "calendar": [
+      {
+        "month": "April 2026",
+        "events": [
+          {
+            "date": "Apr 02",
+            "title": "New Academic Session Commencement & Induction",
+            "type": "event"
+          },
+          {
+            "date": "Apr 14",
+            "title": "Dr. B.R. Ambedkar Jayanti Observance",
+            "type": "holiday"
+          },
+          {
+            "date": "Apr 25",
+            "title": "First Monthly Formative Unit Test",
+            "type": "exam"
+          }
+        ]
+      },
+      {
+        "month": "May 2026",
+        "events": [
+          {
+            "date": "May 01",
+            "title": "International Labour Day",
+            "type": "holiday"
+          },
+          {
+            "date": "May 16",
+            "title": "PTA Progress Meeting & Summer Project Briefing",
+            "type": "meeting"
+          },
+          {
+            "date": "May 21",
+            "title": "Commencement of Summer Break",
+            "type": "holiday"
+          }
+        ]
+      },
+      {
+        "month": "June - July 2026",
+        "events": [
+          {
+            "date": "Jun 22",
+            "title": "School Reopens after Summer Vacation",
+            "type": "event"
+          },
+          {
+            "date": "Jul 15",
+            "title": "Plantation & Green Campus Drive (Van Mahotsav)",
+            "type": "event"
+          },
+          {
+            "date": "Jul 28",
+            "title": "First Terminal Examination (Class 6 - 12)",
+            "type": "exam"
+          }
+        ]
+      }
+    ],
+    "guidelines": [
+      "Punctuality is mandatory. All students must reach the school campus by 9:20 AM for the morning assembly.",
+      "Prescribed clean school uniform and student identity cards are compulsory on all school working days.",
+      "A minimum of 75% classroom attendance is compulsory to be eligible for board examinations and state welfare scholarships.",
+      "Mobile phones and non-educational electronic gadgets are strictly banned inside classrooms.",
+      "Respect towards teachers, school property, cleanliness, and peers is expected from every student.",
+      "Parents must review the student diary regularly and sign notices sent by teachers."
+    ],
+    "evaluationPattern": "Evaluation strictly conforms to the Bihar School Examination Board (BSEB) continuous and terminal evaluation framework. Assessments comprise periodic unit tests, quarterly terminal examinations, science lab practicals, project assignments, and annual board examinations.",
+    "midDayMealInfo": "Under the Government of Bihar PM POSHAN (Mid-Day Meal) scheme, warm, freshly cooked nutritious meals are served daily to students with weekly menus including khichdi, green vegetables, dal, rice, seasonal fruits, and boiled eggs/soya bean on allocated days."
+  },
+  "contactMessages": [
+    {
+      "id": "msg-1",
+      "name": "Rameshwar Kumar",
+      "email": "rameshwar.bishanpur@gmail.com",
+      "phone": "9801234567",
+      "subject": "Inquiry regarding Class 9 Admission documents",
+      "message": "Namaskar Headmaster Sir, I want to enroll my daughter in Class 9 for the new academic session. Can you please confirm the last date for submitting Transfer Certificate?",
+      "createdAt": "2026-03-22T14:20:00.000Z",
+      "read": false
+    }
+  ]
+}
